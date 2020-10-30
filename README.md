@@ -1,5 +1,5 @@
 # goMeet
-Finding it difficult to switch to Google Meet tab due to too many tabs/recent change in design? Try this out!
+Finding it difficult to switch to Google Meet tab during meetings due to too many tabs or recent change in logo? Try this out!
 
 ## How to use?
 - Clone/download the goMeet repo - make sure you have the goMeet directory.
