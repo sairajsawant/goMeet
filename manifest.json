@@ -1,7 +1,7 @@
 {
-    "name": "LocaMeet",
+    "name": "goMeet",
     "version": "1.0",
-    "description": "locate Google meet tab",
+    "description": "Switch to Google Meet tab",
     "permissions": ["tabs"],
     "background": {
       "scripts": ["background.js"],
