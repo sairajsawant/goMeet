@@ -10,5 +10,5 @@ Finding it difficult to switch to Google Meet tab during meetings due to too man
 - Click the extension icon to switch to the tab.
 ### Firefox
 - Type about:debugging in the Firefox URL bar.
-- Click on LOAD TEMPORARY ADDON ... & load the background.js file.
+- Click on LOAD TEMPORARY ADDON & load the background.js file.
 - Click the extension icon to switch to the tab.
